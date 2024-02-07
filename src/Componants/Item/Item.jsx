@@ -1,6 +1,4 @@
 import React from "react";
-import Layer from "../Layer/Layer";
-import { useState } from "react";
 
 export default function Item() {
   return (
